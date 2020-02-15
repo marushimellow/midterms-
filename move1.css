@@ -1,0 +1,5 @@
+.move1 .leftarm {
+top:100px;
+left:100px;
+    transform: rotate(55deg);
+}
